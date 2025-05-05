@@ -311,7 +311,7 @@ try {
 <Configuration>
   <Add OfficeClientEdition="64" Channel="Current">
     <Product ID="O365ProPlusRetail">
-      <Language ID="ru-ru" />
+      <Language ID="en-us" />
     </Product>
   </Add>
   <Updates Enabled="TRUE" />
