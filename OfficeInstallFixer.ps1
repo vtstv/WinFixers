@@ -1,5 +1,5 @@
 # Microsoft Office Installation Repair Script by Murr 
-# https://github.com/vtstv/OfficeInstallFixer
+# https://github.com/vtstv/WinFixers
 # Run as Administrator
 
 # Set information display preferences
@@ -311,7 +311,7 @@ try {
 <Configuration>
   <Add OfficeClientEdition="64" Channel="Current">
     <Product ID="O365ProPlusRetail">
-      <Language ID="ru-ru" />
+      <Language ID="en-us" />
     </Product>
   </Add>
   <Updates Enabled="TRUE" />
