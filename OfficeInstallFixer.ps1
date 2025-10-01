@@ -1,5 +1,5 @@
 # Microsoft Office Installation Repair Script by Murr 
-# https://github.com/vtstv/OfficeInstallFixer
+# https://github.com/vtstv/WinFixers
 # Run as Administrator
 
 # Set information display preferences
